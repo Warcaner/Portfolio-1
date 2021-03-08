@@ -1,0 +1,15 @@
+C:\Users\mat97\source\repos\Shapes\Shapes\bin\Debug\netcoreapp3.1\Portfolio1.exe
+C:\Users\mat97\source\repos\Shapes\Shapes\bin\Debug\netcoreapp3.1\Portfolio1.deps.json
+C:\Users\mat97\source\repos\Shapes\Shapes\bin\Debug\netcoreapp3.1\Portfolio1.runtimeconfig.json
+C:\Users\mat97\source\repos\Shapes\Shapes\bin\Debug\netcoreapp3.1\Portfolio1.runtimeconfig.dev.json
+C:\Users\mat97\source\repos\Shapes\Shapes\bin\Debug\netcoreapp3.1\Portfolio1.dll
+C:\Users\mat97\source\repos\Shapes\Shapes\bin\Debug\netcoreapp3.1\Portfolio1.pdb
+C:\Users\mat97\source\repos\Shapes\Shapes\obj\Debug\netcoreapp3.1\Portfolio1.csprojAssemblyReference.cache
+C:\Users\mat97\source\repos\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.Form1.resources
+C:\Users\mat97\source\repos\Shapes\Shapes\obj\Debug\netcoreapp3.1\Portfolio1.csproj.GenerateResource.cache
+C:\Users\mat97\source\repos\Shapes\Shapes\obj\Debug\netcoreapp3.1\Portfolio1.AssemblyInfoInputs.cache
+C:\Users\mat97\source\repos\Shapes\Shapes\obj\Debug\netcoreapp3.1\Portfolio1.AssemblyInfo.cs
+C:\Users\mat97\source\repos\Shapes\Shapes\obj\Debug\netcoreapp3.1\Portfolio1.csproj.CoreCompileInputs.cache
+C:\Users\mat97\source\repos\Shapes\Shapes\obj\Debug\netcoreapp3.1\Portfolio1.dll
+C:\Users\mat97\source\repos\Shapes\Shapes\obj\Debug\netcoreapp3.1\Portfolio1.pdb
+C:\Users\mat97\source\repos\Shapes\Shapes\obj\Debug\netcoreapp3.1\Portfolio1.genruntimeconfig.cache

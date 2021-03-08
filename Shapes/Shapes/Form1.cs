@@ -15,8 +15,8 @@ namespace Shapes
         public Form1()
         {
             InitializeComponent();
-            this.Width = 500;
-            this.Height = 500;
+            this.Width = 1000;
+            this.Height = 1000;
         }
 
         private void Form1_Paint(object sender, PaintEventArgs e)
@@ -26,11 +26,40 @@ namespace Shapes
             Brush myBrush = new SolidBrush(Color.AliceBlue); // Paint interior of our shape
 
             g.DrawRectangle(myPen, 100, 100, 200, 200);
-            g.DrawLine(myPen, 100, 100, 500, 500);
-            g.DrawEllipse(myPen, 100, 100, 300, 300);
-            
+           g.DrawLine(myPen, 100, 100, 500, 500);
+            g.DrawEllipse(myPen, 100, 100, 500, 500);
+
         }
 
-     
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Constructor(object sender,System.EventArgs e)
+        {
+            // The CheckBox control's Text property is changed each time the
+            // control is clicked, indicating a checked or unchecked state.  
+            if (checkBox1.Checked)
+            {
+                MessageBox.Show("Hello");
+            }
+            else
+            {
+                checkBox1.Text = "Unchecked";
+            }
+
+        }
+
+
+        private void Form1_MouseClick(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void Form1_MouseHover(object sender, EventArgs e)
+        {
+
+        }
     }
 }
